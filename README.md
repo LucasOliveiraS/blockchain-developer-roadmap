@@ -19,3 +19,12 @@ Se você acha que o roadmap pode ser melhorado, fique à vontade para discutir n
 ## Contribuição
 
 O roadmap é construído usando [Draw.io] (https://www.draw.io/). O arquivo do projeto pode ser encontrado no arquivo `projeto/roadmap-blockchain.xml`. Para modificá-lo, abra o draw.io, clique em ** Abrir diagrama existente ** e escolha o arquivo `xml`.
+
+<h3>Autor</h3>
+<h4>Lucas Oliveira</h4>
+
+ <ul>
+  <li><a href="https://github.com/LucasOliveiraS">Github Profile</a></li>
+  <li><a href="https://www.linkedin.com/in/lucas-oliveira-492723127/">Linkedin</a></li>
+  <li><a href="https://medium.com/@lucasoliveiras">Medium</a></li>
+</ul>
