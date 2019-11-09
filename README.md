@@ -10,7 +10,7 @@ Se você gostou ou está usando este projeto para aprender ou iniciar sua soluç
 
 ## Roadmap
 
-![Roadmap](https://github.com/LucasOliveiraS/blockchain-developer-roadmap/tree/master/imagens)
+![Roadmap](https://github.com/LucasOliveiraS/blockchain-developer-roadmap/blob/master/imagens/roadmap-blockchain.jpg)
 
 ## Atenção
 
